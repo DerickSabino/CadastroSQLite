@@ -2,7 +2,7 @@
 
 
 ## Descrição do projeto
-Este é um aplicativo Android desenvolvido em Kotlin com suporte a banco de dados SQLite para cadastro e listagem de usuários. O projeto conta com uma tela de cadastro e uma tela de listagem dos dados cadastrados. O aplicativo também possui suporte a múltiplos idiomas (Português e Espanhol) e estilos personalizados.
+Este é um aplicativo Android desenvolvido para a cadeira de computação para dispositivos móveis em Kotlin com suporte a banco de dados SQLite para cadastro e listagem de usuários. O projeto conta com uma tela de cadastro e uma tela de listagem dos dados cadastrados. O aplicativo também possui suporte a múltiplos idiomas (Português, Ingles e Espanhol) 
 
 ## Funcionalidades
 - Tela de Cadastro: Permite que o usuário insira o nome, data de nascimento e telefone.
