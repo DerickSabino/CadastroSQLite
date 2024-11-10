@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Estilo para EditTexts -->
+    <style name="EditTextStyle" parent="Widget.AppCompat.EditText">
+        <item name="android:padding">12dp</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:backgroundTint">#6200EE</item>
+    </style>
+
+    <!-- Estilo para Botões -->
+    <style name="ButtonStyle" parent="Widget.AppCompat.Button">
+        <item name="android:padding">12dp</item>
+        <item name="android:backgroundTint">#03DAC5</item>
+        <item name="android:textColor">#FFFFFF</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+</resources>
