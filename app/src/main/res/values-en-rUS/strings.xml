@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Registration App</string>
+    <string name="name">Name</string>
+    <string name="birth_date">Birth Date</string>
+    <string name="phone">Phone</string>
+    <string name="save">Save</string>
+    <string name="user_saved">User saved successfully!</string>
+    <string name="fill_all_fields">Please fill in all fields</string>
+</resources>

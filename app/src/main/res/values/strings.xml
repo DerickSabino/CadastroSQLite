@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">App de Cadastro</string>
+    <string name="name">Nome</string>
+    <string name="birth_date">Data de Nascimento</string>
+    <string name="phone">Telefone</string>
+    <string name="save">Salvar</string>
+    <string name="user_saved">Usuário salvo com sucesso!</string>
+    <string name="fill_all_fields">Por favor, preencha todos os campos</string>
+</resources>

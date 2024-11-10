@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Aplicación de Registro</string>
+    <string name="name">Nombre</string>
+    <string name="birth_date">Fecha de Nacimiento</string>
+    <string name="phone">Teléfono</string>
+    <string name="save">Guardar</string>
+    <string name="user_saved">¡Usuario guardado con éxito!</string>
+    <string name="fill_all_fields">Por favor, complete todos los campos</string>
+</resources>
